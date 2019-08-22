@@ -1,10 +1,5 @@
 # Data Science Question Answer
 
-The purpose of this repo is two fold:
-
-* To help you (data science practitioners) prepare for data science related interviews
-* To introduce to people who don't know but want to learn some basic data science concepts
-
 The focus is on the knowledge breadth so this is more of a quick reference rather than an in-depth study material. If you want to learn a specific topic in detail please refer to other content or reach out and I'd love to point you to materials I found useful.
 
 I might add some topics from time to time but hey, this should also be a community effort, right? Any pull request is welcome!
